@@ -1,0 +1,69 @@
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.line {
+  border-color: darksalmon;
+  border-width: 1px;
+  border-style: dashed;
+}
+
+.line2 {
+  border-color: darksalmon;
+  border-width: 1px;
+  border-style: dashed;
+  margin-left: 100px;
+}
+
+.text {
+  margin-left: 305px;
+}
+
+.container {
+  position: relative;
+  text-align: ;
+  color: white;
+}
+
+.top-right {
+  position: absolute;
+  top: 8px;
+}
+
+.center2 {
+  display: block;
+  margin-left: 300px;
+  margin-right: auto;
+  margin-top: -200px;
+}
+
+.center3 {
+  display: block;
+  margin-left: 600px;
+  margin-right: auto;
+  margin-top: -200px;
+}
+
+.center4 {
+  display: block;
+  margin-left: 900px;
+  margin-right: auto;
+  margin-top: -200px;
+}
+
+.center5 {
+  display: block;
+  margin-left: 1200px;
+  margin-right: auto;
+  margin-top: -200px;
+}
+
+.container2 {
+  position: relative;
+  text-align: ;
+  color: white;
+}
